@@ -1,0 +1,15 @@
+{
+  "accounts": [
+    {
+      "username": "account1",
+      "password": "pass1"
+    }
+  ],
+  "proxies": [
+    "http://proxy1.example.com:8080"
+  ],
+  "redis": {
+    "host": "localhost",
+    "port": 6379
+  }
+} 
